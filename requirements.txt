@@ -1,0 +1,14 @@
+python-dotenv
+streamlit
+langchain-community
+langchain
+langchain-core
+langchain-groq
+scikit-learn
+sqlite3
+pandas
+datasets
+transformers
+torch
+peft
+logging
