@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Langchain-1/mlruns/0/59b940f0a76b4e0b8f0852204999595e/artifacts
+end_time: 1731564456770
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 59b940f0a76b4e0b8f0852204999595e
+run_name: capable-auk-759
+run_uuid: 59b940f0a76b4e0b8f0852204999595e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731564456065
+status: 3
+tags: []
+user_id: Sai Kaushik

@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Langchain-1/mlruns/0/81f182d693884b33a8db672e26688733/artifacts
+end_time: 1731565210958
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 81f182d693884b33a8db672e26688733
+run_name: ./finetuned_model
+run_uuid: 81f182d693884b33a8db672e26688733
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731565202405
+status: 3
+tags: []
+user_id: Sai Kaushik
